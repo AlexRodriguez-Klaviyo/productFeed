@@ -1,0 +1,29 @@
+[
+    {
+      "id":"KLAVIYO-TSHIRT1",
+      "title":"Classic Klaviyo T-Shirt 1",
+      "title_us":"Classic Klaviyo T-Shirt 1",
+      "title_gb":"Classic Klaviyo T-Shirt 1",
+      "title_de":"Klassisches Klaviyo-T-Shirt 1",
+      "link":"https://klaviyogear_US.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-1",
+      "link_us":"https://klaviyogear_US.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-1",
+      "link_gb":"https://klaviyogear_GB.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-1",
+      "link_de":"https://klaviyogear_DE.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-1",
+      "description":"Standard issue for all Klaviyos. This t-shirt has the Klaviyo logo on the front and mark diagram on the back.",
+      "description_US":"Standard issue for all Klaviyos. This t-shirt has the Klaviyo logo on the front and mark diagram on the back.",
+      "description_GB":"Standard issue for all Klaviyos. This t-shirt has the Klaviyo logo on the front and mark diagram on the back.",
+      "description_DE":"Standardausgabe für alle Klaviyos. Dieses T-Shirt hat das Klaviyo-Logo auf der Vorderseite und ein Markendiagramm auf der Rückseite.",
+      "price":20,
+      "price_us":20,
+      "price_gb":15,
+      "price_de":18,
+      "currency": "USD",
+      "currency_us": "USD",
+      "currency_gb": "GBP",
+      "currency_de": "EUR",
+      "image_link":"https://www.klaviyo.com/media/images/examples/products/klaviyo-tshirt-thumbnail.png",
+      "categories":["apparel","t-shirt","new-arrival","swag"],
+      "inventory_quantity":190,
+      "inventory_policy":1
+    }
+  ]
