@@ -1,42 +1,47 @@
 {
     "content": [
       {
-  "e15": {
-    "water_company": "Thames Water",
-    "score": 5,
-    "water_type": "hard",
-    "content_text": "Thames Water - Hard Water"
-  },
-  "e16": {
-    "water_company": "Thames Water",
-    "score": 5,
-    "water_type": "hard",
-    "content_text": "Thames Water - Hard Water"
-  },
-  "e17": {
-    "water_company": "Thames Water",
-    "score": 5,
-    "water_type": "hard",
-    "content_text": "Thames Water - Hard Water"
-  },
-  "e18": {
-    "water_company": "Thames Water",
-    "score": 5,
-    "water_type": "hard",
-    "content_text": "Thames Water - Hard Water"
-  },
-  "e19": {
-    "water_company": "Thames Water",
-    "score": 5,
-    "water_type": "hard",
-    "content_text": "Thames Water - Hard Water"
-  },
-  "e20": {
-    "water_company": "Thames Water",
-    "score": 5,
-    "water_type": "hard",
-    "content_text": "Thames Water - Hard Water"
-  }
-}
+        "id": "e15",
+        "content_text": "Thames Water - Hard Water",
+        "water_company": "Thames Water",
+        "score": 5,
+        "water_type": "hard"
+      },
+      {
+        "id": "e16",
+        "content_text": "Thames Water - Hard Water",
+        "water_company": "Thames Water",
+        "score": 5,
+        "water_type": "hard"
+      },
+      {
+        "id": "e17",
+        "content_text": "Thames Water - Hard Water",
+        "water_company": "Thames Water",
+        "score": 5,
+        "water_type": "hard"
+      },
+      {
+        "id": "e18",
+        "content_text": "Thames Water - Hard Water",
+        "water_company": "Thames Water",
+        "score": 5,
+        "water_type": "hard"
+      },
+      {
+        "id": "e19",
+        "content_text": "Thames Water - Hard Water",
+        "water_company": "Thames Water",
+        "score": 5,
+        "water_type": "hard"
+      },
+      {
+        "id": "e20",
+        "content_text": "Thames Water - Hard Water",
+        "water_company": "Thames Water",
+        "score": 5,
+        "water_type": "hard"
+      }
     ]
   }
+  
