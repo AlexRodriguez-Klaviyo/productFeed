@@ -1,8 +1,4 @@
 {
-    "version": "https://jsonfeed.org/version/1.1",
-    "title": "Water Quality Scores",
-    "home_page_url": "https://example.com/water-scores",
-    "feed_url": "https://example.com/water-scores/feed.json",
     "content": [
       {
         "id": "e15",
