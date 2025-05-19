@@ -1,31 +1,4 @@
-data= [ 
-    e15 : {
-    water_company: 'Thames Water',
-    score: 5,
-    water_type: hard
-},
-e16 {
-    water_company: 'Thames Water',
-    score: 5,
-    water_type: hard
-},e17 {
-    water_company: 'Thames Water',
-    score: 5,
-    water_type: hard
-},e18 {
-    water_company: 'Thames Water',
-    score: 5,
-    water_type: hard
-},e19 {
-    water_company: 'Thames Water',
-    score: 5,
-    water_type: hard
-},e20 {
-    water_company: 'Thames Water',
-    score: 5,
-    water_type: hard
-}
-]{
+{
     "version": "https://jsonfeed.org/version/1.1",
     "title": "Water Quality Scores",
     "home_page_url": "https://example.com/water-scores",
@@ -75,4 +48,3 @@ e16 {
       }
     ]
   }
-  
