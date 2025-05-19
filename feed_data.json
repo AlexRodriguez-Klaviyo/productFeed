@@ -3,7 +3,7 @@
     "title": "Water Quality Scores",
     "home_page_url": "https://example.com/water-scores",
     "feed_url": "https://example.com/water-scores/feed.json",
-    "items": [
+    "content": [
       {
         "id": "e15",
         "content_text": "Thames Water - Hard Water",
