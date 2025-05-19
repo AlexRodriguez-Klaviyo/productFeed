@@ -1,0 +1,78 @@
+data= [ 
+    e15 : {
+    water_company: 'Thames Water',
+    score: 5,
+    water_type: hard
+},
+e16 {
+    water_company: 'Thames Water',
+    score: 5,
+    water_type: hard
+},e17 {
+    water_company: 'Thames Water',
+    score: 5,
+    water_type: hard
+},e18 {
+    water_company: 'Thames Water',
+    score: 5,
+    water_type: hard
+},e19 {
+    water_company: 'Thames Water',
+    score: 5,
+    water_type: hard
+},e20 {
+    water_company: 'Thames Water',
+    score: 5,
+    water_type: hard
+}
+]{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "Water Quality Scores",
+    "home_page_url": "https://example.com/water-scores",
+    "feed_url": "https://example.com/water-scores/feed.json",
+    "items": [
+      {
+        "id": "e15",
+        "content_text": "Thames Water - Hard Water",
+        "water_company": "Thames Water",
+        "score": 5,
+        "water_type": "hard"
+      },
+      {
+        "id": "e16",
+        "content_text": "Thames Water - Hard Water",
+        "water_company": "Thames Water",
+        "score": 5,
+        "water_type": "hard"
+      },
+      {
+        "id": "e17",
+        "content_text": "Thames Water - Hard Water",
+        "water_company": "Thames Water",
+        "score": 5,
+        "water_type": "hard"
+      },
+      {
+        "id": "e18",
+        "content_text": "Thames Water - Hard Water",
+        "water_company": "Thames Water",
+        "score": 5,
+        "water_type": "hard"
+      },
+      {
+        "id": "e19",
+        "content_text": "Thames Water - Hard Water",
+        "water_company": "Thames Water",
+        "score": 5,
+        "water_type": "hard"
+      },
+      {
+        "id": "e20",
+        "content_text": "Thames Water - Hard Water",
+        "water_company": "Thames Water",
+        "score": 5,
+        "water_type": "hard"
+      }
+    ]
+  }
+  
