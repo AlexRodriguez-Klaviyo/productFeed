@@ -1,6 +1,6 @@
 [
     {
-      "id":"6129914413238",
+      "id":"1234",
       "title":"Classic Klaviyo T-Shirt 1",
       "title_es":"Classic Klaviyo T-Shirt 1_ES",
       "title_en":"Classic Klaviyo T-Shirt 1_EN",
@@ -24,6 +24,33 @@
       "image_link":"https://www.klaviyo.com/media/images/examples/products/klaviyo-tshirt-thumbnail.png",
       "categories":["apparel","t-shirt","new-arrival","swag"],
       "inventory_quantity":190,
+      "inventory_policy":1
+    },
+    {
+      "id":"5678",
+      "title":"Classic Klaviyo T-Shirt 2",
+      "title_es":"Classic Klaviyo T-Shirt 2_ES",
+      "title_en":"Classic Klaviyo T-Shirt 2_EN",
+      "title_fr":"Klassisches Klaviyo-T-Shirt 1_FR",
+      "link":"https://klaviyogear_US.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-2",
+      "link_es":"https://klaviyogear_US.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-2",
+      "link_en":"https://klaviyogear_GB.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-2",
+      "link_fr":"https://klaviyogear_DE.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-2",
+      "description":"Standard issue for all Klaviyos. This t-shirt has the Klaviyo logo on the front and mark diagram on the back.",
+      "description_US":"Standard issue for all Klaviyos. This t-shirt has the Klaviyo logo on the front and mark diagram on the back.",
+      "description_GB":"Standard issue for all Klaviyos. This t-shirt has the Klaviyo logo on the front and mark diagram on the back.",
+      "description_DE":"Standardausgabe für alle Klaviyos. Dieses T-Shirt hat das Klaviyo-Logo auf der Vorderseite und ein Markendiagramm auf der Rückseite.",
+      "price":20,
+      "price_es":20,
+      "price_en":15,
+      "price_fr":18,
+      "currency": "USD",
+      "currency_es": "EUR",
+      "currency_en": "GBP",
+      "currency_fr": "EUR",
+      "image_link":"https://images.teemill.com/tkonxirsn1khelw0szx1twelpletkfcynovhx7eeqllqp5uo.png.png?w=1080&h=auto",
+      "categories":["apparel","t-shirt","new-arrival","swag"],
+      "inventory_quantity":2,
       "inventory_policy":1
     }
   ]
