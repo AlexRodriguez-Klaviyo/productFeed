@@ -24,7 +24,8 @@
       "image_link":"https://www.klaviyo.com/media/images/examples/products/klaviyo-tshirt-thumbnail.png",
       "categories":["apparel","t-shirt","new-arrival","swag"],
       "inventory_quantity":190,
-      "inventory_policy":1
+      "inventory_policy":1,
+     "published": true
     },
     {
       "id":"5678",
@@ -50,7 +51,8 @@
       "currency_fr": "EUR",
       "image_link":"https://images.teemill.com/tkonxirsn1khelw0szx1twelpletkfcynovhx7eeqllqp5uo.png.png?w=1080&h=auto",
       "categories":["apparel","t-shirt","new-arrival","swag"],
-      "inventory_quantity":2,
-      "inventory_policy":1
+      "inventory_quantity":0,
+      "inventory_policy":1,
+    "published": false
     }
   ]
