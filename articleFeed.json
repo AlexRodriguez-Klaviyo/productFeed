@@ -1,0 +1,62 @@
+[
+    {
+      "title": "Edge AI Trends for Retail",
+      "url": "https://example.com/articles/edge-ai-trends-for-retail",
+      "author_name": "Alex Morgan",
+      "author_id": 1,
+      "category": "Technology",
+      "category_id": "1a",
+      "excerpt_30_words": "Edge AI is transforming retail by enabling faster decision-making, personalized recommendations, and efficient inventory management. This article explores emerging trends, practical applications, and how businesses can prepare to integrate these technologies into their strategies.",
+      "published": "2025-08-09T12:00:00Z"
+    },
+    {
+      "title": "Email Personalization Tactics",
+      "url": "https://example.com/articles/email-personalization-tactics",
+      "author_name": "Priya Shah",
+      "author_id": 2,
+      "category": "Marketing",
+      "category_id": "2b",
+      "excerpt_30_words": "Personalized emails consistently outperform generic campaigns by driving engagement and conversions. Discover practical tactics to segment audiences, tailor subject lines, and craft content that resonates, ultimately building stronger customer relationships and improving marketing ROI.",
+      "published": "2025-08-10T12:00:00Z"
+    },
+    {
+      "title": "Checkout Flow UX Mistakes",
+      "url": "https://example.com/articles/checkout-flow-ux-mistakes",
+      "author_name": "Diego Alvarez",
+      "author_id": 3,
+      "category": "Ecommerce",
+      "category_id": "3c",
+      "excerpt_30_words": "A smooth checkout flow is critical for maximizing conversions. Learn about common UX mistakes, such as unnecessary form fields and poor mobile design, and discover actionable ways to streamline processes for happier, returning customers.",
+      "published": "2025-08-11T12:00:00Z"
+    },
+    {
+      "title": "RFM Segmentation Explained",
+      "url": "https://example.com/articles/rfm-segmentation-explained",
+      "author_name": "Mia Chen",
+      "author_id": 4,
+      "category": "Data Science",
+      "category_id": "4d",
+      "excerpt_30_words": "RFM segmentation helps businesses prioritize customers based on recency, frequency, and monetary value. This article explains the framework, its benefits, and offers tips for implementation to drive targeted marketing campaigns and increase profitability effectively.",
+      "published": "2025-08-12T12:00:00Z"
+    },
+    {
+      "title": "Lifecycle Automation Playbook",
+      "url": "https://example.com/articles/lifecycle-automation-playbook",
+      "author_name": "Omar Haddad",
+      "author_id": 5,
+      "category": "Product",
+      "category_id": "5e",
+      "excerpt_30_words": "Lifecycle automation streamlines customer engagement from onboarding to retention. Learn strategies for automating key touchpoints, measuring impact, and aligning automation workflows with business goals to enhance efficiency and deliver consistent, high-quality customer experiences.",
+      "published": "2025-08-13T12:00:00Z"
+    },
+    {
+      "title": "Zero-Party Data Strategies",
+      "url": "https://example.com/articles/zero-party-data-strategies",
+      "author_name": "Sara Novak",
+      "author_id": 6,
+      "category": "Design",
+      "category_id": "6f",
+      "excerpt_30_words": "Zero-party data, collected directly from customers, is invaluable for personalization while respecting privacy. Explore strategies for gathering, managing, and leveraging this data to build trust and create more tailored, meaningful customer interactions effectively.",
+      "published": "2025-08-14T12:00:00Z"
+    }
+  ]
