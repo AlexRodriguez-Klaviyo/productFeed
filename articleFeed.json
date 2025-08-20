@@ -1,5 +1,6 @@
+{
 "authors":["11aabbb11","22bbbcc22","33bbbcc33","444bbcc44","555bbcc55","66bbcc566"],
-"articles:[
+"articles":[
     {
       "title": "Edge AI Trends for Retail",
       "url": "https://example.com/articles/edge-ai-trends-for-retail",
@@ -61,3 +62,4 @@
       "published": "2025-08-14T12:00:00Z"
     }
   ]
+}
