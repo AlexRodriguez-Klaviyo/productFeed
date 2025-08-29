@@ -4,7 +4,7 @@
     "1402": "https://www.alimentarium.org/sites/default/files/media/image/2016-10/AL001-02%20tomate_0.jpg"
   },
   "content": {
-    "1401": "This is content for lifestage 1401",
+    "1401": "<p>This is content for lifestage 1401</p>",
     "1402": "This is content for lifestage 1402"
   }
 }
