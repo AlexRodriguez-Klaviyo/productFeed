@@ -1,0 +1,24 @@
+{
+  "1401": {
+    "header": "https://images.ctfassets.net/ruek9xr8ihvu/61LZ2B9i6vMzaWNLTjneRe/3f3b071b41b94eaaeea4b5b87be891a7/Lemon_edited-scaled.jpg",
+    "Article1_Title": "Fresh Lemon Insights",
+    "Article1_URL": "https://www.klaviyo.com/lemon",
+    "Article1_Image": "https://images.ctfassets.net/ruek9xr8ihvu/61LZ2B9i6vMzaWNLTjneRe/3f3b071b41b94eaaeea4b5b87be891a7/Lemon_edited-scaled.jpg",
+    "Article2_Title": "Citrus Growth Strategies",
+    "Article2_URL": "https://www.klaviyo.com/citrus",
+    "Article2_Image": "https://images.ctfassets.net/ruek9xr8ihvu/61LZ2B9i6vMzaWNLTjneRe/3f3b071b41b94eaaeea4b5b87be891a7/Lemon_edited-scaled.jpg",
+    "Banner_1": "https://images.ctfassets.net/ruek9xr8ihvu/61LZ2B9i6vMzaWNLTjneRe/3f3b071b41b94eaaeea4b5b87be891a7/Lemon_edited-scaled.jpg",
+    "Banner_2": "https://images.ctfassets.net/ruek9xr8ihvu/61LZ2B9i6vMzaWNLTjneRe/3f3b071b41b94eaaeea4b5b87be891a7/Lemon_edited-scaled.jpg"
+  },
+  "1402": {
+    "header": "https://www.alimentarium.org/sites/default/files/media/image/2016-10/AL001-02%20tomate_0.jpg",
+    "Article1_Title": "Tomato Harvest Trends",
+    "Article1_URL": "https://google.com/tomato",
+    "Article1_Image": "https://www.alimentarium.org/sites/default/files/media/image/2016-10/AL001-02%20tomate_0.jpg",
+    "Article2_Title": "Garden-to-Table Recipes",
+    "Article2_URL": "https://google.com/recipes",
+    "Article2_Image": "https://www.alimentarium.org/sites/default/files/media/image/2016-10/AL001-02%20tomate_0.jpg",
+    "Banner_1": "https://www.alimentarium.org/sites/default/files/media/image/2016-10/AL001-02%20tomate_0.jpg",
+    "Banner_2": "https://www.alimentarium.org/sites/default/files/media/image/2016-10/AL001-02%20tomate_0.jpg"
+  }
+}
