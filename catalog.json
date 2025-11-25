@@ -22,7 +22,7 @@
       "currency_en": "GBP",
       "currency_fr": "EUR",
       "image_link":"https://www.klaviyo.com/media/images/examples/products/klaviyo-tshirt-thumbnail.png",
-      "categories":["apparel","t-shirt","new-arrival","swag"],
+      "categories":["apparel","t-shirt","new-arrival","swag","otra categoria"],
       "inventory_quantity":190,
       "inventory_policy":1,
      "published": true
