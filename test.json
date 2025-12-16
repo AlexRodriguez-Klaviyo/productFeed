@@ -1,0 +1,18 @@
+[
+{
+"id": "gid://shopify/Location/102422643066",
+"name": "Castore Arndale Centre",
+"link": "{% update_property_link 'preferred_venue_name' 'Arndale' 'https://castore.com/pages/store-locator' %}",
+"description": "Arndale",
+"image_link": "https://cdn.shopify.com/s/files/1/0317/0359/7193/files/Arndale.jpg?v=1753868393",
+"address": "Cannon Street",
+"address2": "Manchester Arndale",
+"city": "Manchester",
+"region": "Manchester",
+"postal_code": "M4 3AQ",
+"country": "United Kingdom",
+"formatted_address": "Cannon Street<br/>Manchester Arndale<br/>M4 3AQ<br/><br/>Monday - Saturday 09:00 - 21:00</br>Sunday 09:00 - 17:30",
+"telephone": "",
+"directions": "https://www.google.com/maps/dir/?api=1&destination=Cannon%20Street%20Manchester%20Arndale%20M4%203AQ"
+}
+]
