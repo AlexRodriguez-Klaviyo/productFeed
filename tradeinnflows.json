@@ -6,5 +6,8 @@
   "diveinn": {
     "header": "https://cache.tradeinn.com/web/brandPP/video-869_1.webp",
     "HEX": "#1b8782"
-  }
+  },
+  "tradeinn":{
+header: "https://storage.googleapis.com/tradeinn-images/web/mails_auto/tradeinn-vf.jpg",
+HEX: "#000000"
 }
