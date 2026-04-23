@@ -1,0 +1,227 @@
+[
+  {
+    "id": "M00LFA001_GBP",
+    "title": "Balfern Leather Biker Jacket",
+    "description": "Iconic unlined leather biker jacket with quilted shoulder panels and zip detail.",
+    "link": "https://www.allsaints.com/uk/jackets/balfern-leather-biker-jacket",
+    "image_link": "https://images.allsaints.com/content/images/product/M00LFA001-full.jpg",
+    "price": 298.00,
+    "inventory_quantity": 50
+  },
+  {
+    "id": "USM00LFA001_USD",
+    "title": "Balfern Leather Biker Jacket",
+    "description": "Iconic unlined leather biker jacket with quilted shoulder panels and zip detail.",
+    "link": "https://www.allsaints.com/us/jackets/balfern-leather-biker-jacket",
+    "image_link": "https://images.allsaints.com/content/images/product/M00LFA001-full.jpg",
+    "price": 368.00,
+    "inventory_quantity": 50
+  },
+  {
+    "id": "M00LFA001_EUR",
+    "title": "Balfern Leather Biker Jacket",
+    "description": "Iconic unlined leather biker jacket with quilted shoulder panels and zip detail.",
+    "link": "https://www.allsaints.com/eu/jackets/balfern-leather-biker-jacket",
+    "image_link": "https://images.allsaints.com/content/images/product/M00LFA001-full.jpg",
+    "price": 349.00,
+    "inventory_quantity": 50
+  },
+  {
+    "id": "M00LFA001_CHF",
+    "title": "Balfern Leather Biker Jacket",
+    "description": "Iconic unlined leather biker jacket with quilted shoulder panels and zip detail.",
+    "link": "https://www.allsaints.com/ch/jackets/balfern-leather-biker-jacket",
+    "image_link": "https://images.allsaints.com/content/images/product/M00LFA001-full.jpg",
+    "price": 329.00,
+    "inventory_quantity": 50
+  },
+  {
+    "id": "M00LFA001_CAD",
+    "title": "Balfern Leather Biker Jacket",
+    "description": "Iconic unlined leather biker jacket with quilted shoulder panels and zip detail.",
+    "link": "https://www.allsaints.com/ca/jackets/balfern-leather-biker-jacket",
+    "image_link": "https://images.allsaints.com/content/images/product/M00LFA001-full.jpg",
+    "price": 499.00,
+    "inventory_quantity": 50
+  },
+  {
+    "id": "M00TRS002_GBP",
+    "title": "Transit Slim Jeans",
+    "description": "Slim fit jeans in mid-wash denim with five-pocket styling.",
+    "link": "https://www.allsaints.com/uk/jeans/transit-slim-jeans",
+    "image_link": "https://images.allsaints.com/content/images/product/M00TRS002-full.jpg",
+    "price": 95.00,
+    "inventory_quantity": 80
+  },
+  {
+    "id": "USM00TRS002_USD",
+    "title": "Transit Slim Jeans",
+    "description": "Slim fit jeans in mid-wash denim with five-pocket styling.",
+    "link": "https://www.allsaints.com/us/jeans/transit-slim-jeans",
+    "image_link": "https://images.allsaints.com/content/images/product/M00TRS002-full.jpg",
+    "price": 118.00,
+    "inventory_quantity": 80
+  },
+  {
+    "id": "M00TRS002_EUR",
+    "title": "Transit Slim Jeans",
+    "description": "Slim fit jeans in mid-wash denim with five-pocket styling.",
+    "link": "https://www.allsaints.com/eu/jeans/transit-slim-jeans",
+    "image_link": "https://images.allsaints.com/content/images/product/M00TRS002-full.jpg",
+    "price": 112.00,
+    "inventory_quantity": 80
+  },
+  {
+    "id": "M00TRS002_CHF",
+    "title": "Transit Slim Jeans",
+    "description": "Slim fit jeans in mid-wash denim with five-pocket styling.",
+    "link": "https://www.allsaints.com/ch/jeans/transit-slim-jeans",
+    "image_link": "https://images.allsaints.com/content/images/product/M00TRS002-full.jpg",
+    "price": 105.00,
+    "inventory_quantity": 80
+  },
+  {
+    "id": "M00TRS002_CAD",
+    "title": "Transit Slim Jeans",
+    "description": "Slim fit jeans in mid-wash denim with five-pocket styling.",
+    "link": "https://www.allsaints.com/ca/jeans/transit-slim-jeans",
+    "image_link": "https://images.allsaints.com/content/images/product/M00TRS002-full.jpg",
+    "price": 159.00,
+    "inventory_quantity": 80
+  },
+  {
+    "id": "M00TEE003_GBP",
+    "title": "Relaxed Crew T-Shirt",
+    "description": "Relaxed fit crew neck T-shirt in heavyweight organic cotton.",
+    "link": "https://www.allsaints.com/uk/t-shirts/relaxed-crew-t-shirt",
+    "image_link": "https://images.allsaints.com/content/images/product/M00TEE003-full.jpg",
+    "price": 35.00,
+    "inventory_quantity": 120
+  },
+  {
+    "id": "USM00TEE003_USD",
+    "title": "Relaxed Crew T-Shirt",
+    "description": "Relaxed fit crew neck T-shirt in heavyweight organic cotton.",
+    "link": "https://www.allsaints.com/us/t-shirts/relaxed-crew-t-shirt",
+    "image_link": "https://images.allsaints.com/content/images/product/M00TEE003-full.jpg",
+    "price": 44.00,
+    "inventory_quantity": 120
+  },
+  {
+    "id": "M00TEE003_EUR",
+    "title": "Relaxed Crew T-Shirt",
+    "description": "Relaxed fit crew neck T-shirt in heavyweight organic cotton.",
+    "link": "https://www.allsaints.com/eu/t-shirts/relaxed-crew-t-shirt",
+    "image_link": "https://images.allsaints.com/content/images/product/M00TEE003-full.jpg",
+    "price": 41.00,
+    "inventory_quantity": 120
+  },
+  {
+    "id": "M00TEE003_CHF",
+    "title": "Relaxed Crew T-Shirt",
+    "description": "Relaxed fit crew neck T-shirt in heavyweight organic cotton.",
+    "link": "https://www.allsaints.com/ch/t-shirts/relaxed-crew-t-shirt",
+    "image_link": "https://images.allsaints.com/content/images/product/M00TEE003-full.jpg",
+    "price": 39.00,
+    "inventory_quantity": 120
+  },
+  {
+    "id": "M00TEE003_CAD",
+    "title": "Relaxed Crew T-Shirt",
+    "description": "Relaxed fit crew neck T-shirt in heavyweight organic cotton.",
+    "link": "https://www.allsaints.com/ca/t-shirts/relaxed-crew-t-shirt",
+    "image_link": "https://images.allsaints.com/content/images/product/M00TEE003-full.jpg",
+    "price": 59.00,
+    "inventory_quantity": 120
+  },
+  {
+    "id": "M00HOD004_GBP",
+    "title": "Underground Pullover Hoodie",
+    "description": "Oversized pullover hoodie in brushed French terry with kangaroo pocket.",
+    "link": "https://www.allsaints.com/uk/hoodies/underground-pullover-hoodie",
+    "image_link": "https://images.allsaints.com/content/images/product/M00HOD004-full.jpg",
+    "price": 85.00,
+    "inventory_quantity": 60
+  },
+  {
+    "id": "USM00HOD004_USD",
+    "title": "Underground Pullover Hoodie",
+    "description": "Oversized pullover hoodie in brushed French terry with kangaroo pocket.",
+    "link": "https://www.allsaints.com/us/hoodies/underground-pullover-hoodie",
+    "image_link": "https://images.allsaints.com/content/images/product/M00HOD004-full.jpg",
+    "price": 105.00,
+    "inventory_quantity": 60
+  },
+  {
+    "id": "M00HOD004_EUR",
+    "title": "Underground Pullover Hoodie",
+    "description": "Oversized pullover hoodie in brushed French terry with kangaroo pocket.",
+    "link": "https://www.allsaints.com/eu/hoodies/underground-pullover-hoodie",
+    "image_link": "https://images.allsaints.com/content/images/product/M00HOD004-full.jpg",
+    "price": 99.00,
+    "inventory_quantity": 60
+  },
+  {
+    "id": "M00HOD004_CHF",
+    "title": "Underground Pullover Hoodie",
+    "description": "Oversized pullover hoodie in brushed French terry with kangaroo pocket.",
+    "link": "https://www.allsaints.com/ch/hoodies/underground-pullover-hoodie",
+    "image_link": "https://images.allsaints.com/content/images/product/M00HOD004-full.jpg",
+    "price": 93.00,
+    "inventory_quantity": 60
+  },
+  {
+    "id": "M00HOD004_CAD",
+    "title": "Underground Pullover Hoodie",
+    "description": "Oversized pullover hoodie in brushed French terry with kangaroo pocket.",
+    "link": "https://www.allsaints.com/ca/hoodies/underground-pullover-hoodie",
+    "image_link": "https://images.allsaints.com/content/images/product/M00HOD004-full.jpg",
+    "price": 142.00,
+    "inventory_quantity": 60
+  },
+  {
+    "id": "M00COT005_GBP",
+    "title": "Cole Leather Jacket",
+    "description": "Clean-cut leather jacket with minimal hardware and a relaxed fit.",
+    "link": "https://www.allsaints.com/uk/jackets/cole-leather-jacket",
+    "image_link": "https://images.allsaints.com/content/images/product/M00COT005-full.jpg",
+    "price": 348.00,
+    "inventory_quantity": 40
+  },
+  {
+    "id": "USM00COT005_USD",
+    "title": "Cole Leather Jacket",
+    "description": "Clean-cut leather jacket with minimal hardware and a relaxed fit.",
+    "link": "https://www.allsaints.com/us/jackets/cole-leather-jacket",
+    "image_link": "https://images.allsaints.com/content/images/product/M00COT005-full.jpg",
+    "price": 428.00,
+    "inventory_quantity": 40
+  },
+  {
+    "id": "M00COT005_EUR",
+    "title": "Cole Leather Jacket",
+    "description": "Clean-cut leather jacket with minimal hardware and a relaxed fit.",
+    "link": "https://www.allsaints.com/eu/jackets/cole-leather-jacket",
+    "image_link": "https://images.allsaints.com/content/images/product/M00COT005-full.jpg",
+    "price": 408.00,
+    "inventory_quantity": 40
+  },
+  {
+    "id": "M00COT005_CHF",
+    "title": "Cole Leather Jacket",
+    "description": "Clean-cut leather jacket with minimal hardware and a relaxed fit.",
+    "link": "https://www.allsaints.com/ch/jackets/cole-leather-jacket",
+    "image_link": "https://images.allsaints.com/content/images/product/M00COT005-full.jpg",
+    "price": 385.00,
+    "inventory_quantity": 40
+  },
+  {
+    "id": "M00COT005_CAD",
+    "title": "Cole Leather Jacket",
+    "description": "Clean-cut leather jacket with minimal hardware and a relaxed fit.",
+    "link": "https://www.allsaints.com/ca/jackets/cole-leather-jacket",
+    "image_link": "https://images.allsaints.com/content/images/product/M00COT005-full.jpg",
+    "price": 579.00,
+    "inventory_quantity": 40
+  }
+]
