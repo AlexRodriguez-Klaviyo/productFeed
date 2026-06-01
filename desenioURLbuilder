@@ -2,12 +2,12 @@
   "es-ES": {
     "animals": "animales",
     "florals": "florales",
-    "posters": "pósteres"
+    "posters": "posteres"
   },
   "de-DE": {
-    "animals": "Tiere",
-    "florals": "Florales",
-    "posters": "Poster"
+    "animals": "tiere",
+    "florals": "blumen",
+    "posters": "poster"
   },
   "fr-FR": {
     "animals": "animaux",
