@@ -1,17 +1,38 @@
 {
   "es-ES": {
+    "url":"https://desenio.es",
     "animals": "animales",
     "florals": "florales",
     "posters": "posteres"
   },
   "de-DE": {
+    "url":"https://desenio.de",
     "animals": "tiere",
     "florals": "blumen",
     "posters": "poster"
   },
   "fr-FR": {
+    "url":"https://desenio.fr",
     "animals": "animaux",
     "florals": "floraux",
     "posters": "affiches"
   }
+  "en-US": {
+    "url":"https://desenio.com",
+    "animals": "animals",
+    "florals": "florals",
+    "posters": "posters"
+  },
+  "es-US": {
+    "url":"https://desenio.com/es-US",
+    "animals": "animales",
+    "florals": "florales",
+    "posters": "posteres"
+  },
+   "ca-FR": {
+    "url":"https://desenio.ca/fr-CA",
+    "animals": "animaux",
+    "florals": "floraux",
+    "posters": "affiches"
+  
 }
